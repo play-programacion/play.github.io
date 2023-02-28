@@ -1,0 +1,128 @@
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img_fondo {
+    background-image: url(header_11030338.png);
+    padding: 10px 10px;
+    width: 1500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+header spam {
+    padding: 100px 40px 0px;
+    border-radius: 0.5rem;
+}
+
+
+spam h1 {
+    color: rgb(65, 55, 92);
+    font-size: 4rem;
+    text-align: center;
+    margin: auto;
+
+}
+
+nav {
+    list-style: none;
+    padding: 0;
+    background: #092327;
+    margin:auto;
+    text-align: center;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+    
+}
+
+nav li {
+    transition: background-color 0.3s ease ;
+    display: inline-block;
+    text-align: center;
+}
+
+nav li :hover{
+    background: #333332;
+    
+}
+
+
+body {
+    
+    margin: 0;
+    background-color: #fafafa;
+}
+
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+section article, section ul  {
+    transition: box-shadow 0.3s ease;
+    background-color: #fff;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+}
+
+article a   {
+    transition: color 0.3s ease;
+    color:rgb(139, 65, 65);
+    text-decoration: none;
+}
+article a:hover  {
+    color: cornflowerblue;
+}
+
+
+section article {
+    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3)
+}
+
+section article  h2, section article p {
+    margin: 1rem; 
+}
+
+section article ul li {
+    margin: 2rem;
+}
+
+footer {
+    background-color: #092327;;
+    width: 1500px;
+    height: 125px;
+    
+    margin: 0 auto;
+    color: #fff;
+}
+
+#uno   {
+    float: right;
+    padding: 30px 30px 30px;
+}
+
+#dos   {
+    float: left;
+    padding: 30px 30px 30px;
+}
+
+
+footer a  { 
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+footer a:hover  {
+    color: rgb(126, 167, 243);
+}
