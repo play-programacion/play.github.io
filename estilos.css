@@ -6,7 +6,7 @@ html {
 #img_fondo {
     background-image: url(header_11030338.png);
     padding: 10px 10px;
-    width: 1500px;
+    width: 1200px;
     height: 500px;
     margin: 0 auto;
 }
@@ -61,7 +61,7 @@ body {
 
 
 .container {
-    width: 1100px;
+    width: 750px;
     margin: 0 auto;
 }
 
@@ -98,7 +98,7 @@ section article ul li {
 
 footer {
     background-color: #092327;;
-    width: 1500px;
+    
     height: 125px;
     
     margin: 0 auto;
